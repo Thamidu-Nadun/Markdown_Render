@@ -1,4 +1,4 @@
-# ⚡️ MarkdownX — The Ultimate Markdown Engine
+# ⚡️ MarkdownRender — The Ultimate Markdown Engine
 
 > ✨ A next-gen Markdown parser that blends the best of GitHub, Obsidian, Notion, and Typora — with supercharged custom features. Power meets elegance.
 
@@ -16,7 +16,7 @@
 
 ## 🧠 Built for Devs, Creators & Note-Takers
 
-Whether you're building a blog, writing technical docs, or organizing your second brain — **MarkdownX** empowers you with features like:
+Whether you're building a blog, writing technical docs, or organizing your second brain — **MarkdownRender** empowers you with features like:
 
 ### 🔥 Highlights
 
@@ -64,13 +64,13 @@ const html = render(yourMarkdownContent);
 
 ## 🧪 Try it Live
 
-> Coming soon: [**MarkdownX Playground**](#)
+> Coming soon: [**MarkdownRender Playground**](#)
 
 ---
 
 ## 💡 Vision
 
-MarkdownX isn’t just a parser. It’s a **framework** for building your own Obsidian, Notion, HackMD, or Typora clone — with full creative freedom.
+MarkdownRender isn’t just a parser. It’s a **framework** for building your own Obsidian, Notion, HackMD, or Typora clone — with full creative freedom.
 
 You’re not limited by specs. You extend them.
 
